@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7576a1d-8484-4a79-817d-a0c101cda7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/polymorphism_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bank_account_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duck_typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magic_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator_overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism_intro.py" afterDir="false" />
+    <list default="true" id="a7576a1d-8484-4a79-817d-a0c101cda7be" name="Changes" comment="polymorphism in python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duck_typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/duck_typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/operator_overloading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +29,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.bank_account_class.executor": "Debug",
-    "Python.duck_typing.executor": "Run",
+    "Python.duck_typing.executor": "Debug",
     "Python.magic_methods.executor": "Run",
     "Python.method_overloading.executor": "Debug",
     "Python.operator_overloading.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Tulasi/courses/python/packages"
+    "last_opened_file_path": "C:/Tulasi/courses/python/polymorphism_python"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -63,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729321741947</updated>
     </task>
+    <task id="LOCAL-00001" summary="polymorphism in python">
+      <option name="closed" value="true" />
+      <created>1730101998315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730101998315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="polymorphism in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphism in python" />
   </component>
 </project>
