@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7576a1d-8484-4a79-817d-a0c101cda7be" name="Changes" comment="polymorphism in python">
+    <list default="true" id="a7576a1d-8484-4a79-817d-a0c101cda7be" name="Changes" comment="polymorphism usage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duck_typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/duck_typing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/operator_overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magic_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/magic_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/method_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/method_overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism_intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +31,10 @@
   "keyToString": {
     "Python.bank_account_class.executor": "Debug",
     "Python.duck_typing.executor": "Debug",
-    "Python.magic_methods.executor": "Run",
+    "Python.magic_methods.executor": "Debug",
     "Python.method_overloading.executor": "Debug",
     "Python.operator_overloading.executor": "Debug",
+    "Python.polymorphism_intro.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Tulasi/courses/python/polymorphism_python"
@@ -62,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730101998315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="polymorphism usage">
+      <option name="closed" value="true" />
+      <created>1738646192082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738646192083</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="polymorphism in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="polymorphism in python" />
+    <MESSAGE value="polymorphism usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphism usage" />
   </component>
 </project>
